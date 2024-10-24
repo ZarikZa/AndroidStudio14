@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SmenaTheme" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/purple</item>
+        <item name="android:textColor">@color/purpleBlue</item>
+        <item name="android:textColorPrimary">@color/govno</item>
+
+        <item name="android:navigationBarColor">@color/purple</item>
+    </style>
+    <style name="Img" parent="Theme.AppCompat.DayNight">
+        <item name="tint"> @color/purpleBlue</item>
+    </style>
+    <style name="Btm" parent="Theme.AppCompat.DayNight">
+        <item name="tint"> @color/govno</item>
+    </style>
+</resources>
